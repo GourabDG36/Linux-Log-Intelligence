@@ -1,0 +1,5 @@
+hour,kernel_events,oom_events,network_events,cron_jobs,total_events,cluster,anomaly,is_anomaly
+8,4,0,4,1,9,0,-1,True
+9,2,2,0,0,4,0,1,False
+10,0,0,0,0,2,1,1,False
+11,1,0,0,0,1,1,1,False

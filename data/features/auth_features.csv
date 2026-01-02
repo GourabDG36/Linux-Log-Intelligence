@@ -1,0 +1,5 @@
+hour,failed_login_count,success_login_count,unique_ips,unique_users,total_events
+8,3,1,2,2,4
+9,0,0,0,0,1
+10,3,0,1,1,3
+11,0,1,1,1,1

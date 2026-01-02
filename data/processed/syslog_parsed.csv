@@ -1,0 +1,17 @@
+timestamp,host,process,message
+Jan 1 08:00:01,myhost,systemd[1],Started Daily Cleanup of Temporary Directories.
+Jan 1 08:02:15,myhost,kernel,CPU temperature above threshold
+Jan 1 08:02:16,myhost,kernel,CPU temperature normal
+Jan 1 08:05:22,myhost,systemd[1],Starting Network Manager...
+Jan 1 08:05:23,myhost,systemd[1],Started Network Manager.
+Jan 1 08:10:45,myhost,CRON[1200],(root) CMD (/usr/bin/apt update)
+Jan 1 08:12:01,myhost,systemd[1],Started Session 1 of user root.
+Jan 1 08:30:14,myhost,kernel,eth0: link down
+Jan 1 08:30:18,myhost,kernel,eth0: link up
+Jan 1 09:00:00,myhost,systemd[1],Stopping User Manager for UID 1000.
+Jan 1 09:15:42,myhost,systemd[1],Started User Manager for UID 1001.
+Jan 1 09:45:10,myhost,kernel,Out of memory: Kill process 2345 (java)
+Jan 1 09:45:11,myhost,kernel,Killed process 2345 (java) total-vm:2048000kB
+Jan 1 10:10:55,myhost,systemd[1],Started Daily apt download activities.
+Jan 1 10:45:01,myhost,systemd[1],Reloaded Daemon.
+Jan 1 11:20:33,myhost,kernel,"usb 1-1: USB disconnect, device number 2"
